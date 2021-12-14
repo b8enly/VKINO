@@ -3,7 +3,7 @@ body{
     height: 100%;
     font-size: 1rem;
     font-family: 'Montserrat Alternates', sans-serif;
-    background: #A1C3D1;
+    background: #F0EBF4;
 }
 
 .gradient {
@@ -12,17 +12,29 @@ body{
 }
 
 .page-header{
-    width: 100%;
-    height: 600px;
     margin-top: 4rem;
     font-size: 1.25rem;
     color: #F0EBF4;
-    margin-right: 3%;
-    margin-left: 3%;
 }
 
 .logo
 {
     margin: 10%;
     width: 128px;
+}
+
+.container 
+{
+    color: #F0EBF4
+}
+
+.hr{
+    border: none;
+    background-color: rgb(161,195,209);
+    height: 2px
+}
+
+.h2
+{
+    color:black;
 }
