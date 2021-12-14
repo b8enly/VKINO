@@ -12,6 +12,7 @@ body{
 }
 
 .page-header{
+    height: 450px;
     margin-top: 4rem;
     font-size: 1.25rem;
     color: #F0EBF4;
@@ -19,13 +20,18 @@ body{
 
 .logo
 {
-    margin: 10%;
+    margin: 0%;
     width: 128px;
 }
 
 .container 
 {
-    color: #F0EBF4
+    color: #F0EBF4;
+}
+
+.container-navbar
+{
+    margin-left: 0px;
 }
 
 .hr{
@@ -37,4 +43,10 @@ body{
 .h2
 {
     color:black;
+}
+
+.text   
+{
+    margin-top: 20px;
+    margin-left: 135px;
 }
