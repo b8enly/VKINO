@@ -3,7 +3,7 @@ body{
     height: 100%;
     font-size: 1rem;
     font-family: 'Montserrat Alternates', sans-serif;
-    background: #F0EBF4;
+    background: #f8f9fa;
 }
 
 .gradient {
@@ -12,10 +12,8 @@ body{
 }
 
 .page-header{
-    height: 450px;
     margin-top: 4rem;
     font-size: 1.25rem;
-    color: #F0EBF4;
 }
 
 .logo
@@ -49,4 +47,15 @@ body{
 {
     margin-top: 20px;
     margin-left: 135px;
+}
+
+.h5
+{
+    color: black;
+}
+
+.recs
+{
+    margin-right: 140px;
+    margin-left: 140px;
 }
