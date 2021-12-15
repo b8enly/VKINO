@@ -25,7 +25,8 @@ body{
 
 .logo
 {
-    margin: 0%;
+    margin-top: 5%;
+    margin-left: 80px;
     width: 128px;
 }
 
@@ -48,4 +49,9 @@ body{
     color:black;
     font-size: 1rem;
     font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.card
+{
+    margin-left: 80px;
 }
