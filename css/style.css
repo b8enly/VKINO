@@ -14,6 +14,13 @@ body{
 .page-header{
     margin-top: 4rem;
     font-size: 1.25rem;
+    color: #f8f9fa;
+}
+
+.news
+{
+    font-size: 1.25rem;
+    color: #f8f9fa;
 }
 
 .logo
@@ -22,42 +29,16 @@ body{
     width: 128px;
 }
 
-.container 
-{
-    color: #F0EBF4;
-}
 
 .container-navbar
 {
     margin-left: 0px;
 }
 
-.hr{
-    border: none;
-    background-color: rgb(161,195,209);
-    height: 2px
-}
-
-.h2
-{
-    color:black;
-    font-size: 1rem;
-    font-family: 'Montserrat Alternates', sans-serif;
-}
-
-.text   
-{
-    margin-top: 20px;
-    margin-left: 135px;
-}
-
-.h5
-{
-    color: black;
-}
-
 .recs
 {
+    color:black;
+    font-size: 1.25rem;
     margin-right: 140px;
     margin-left: 140px;
 }
@@ -68,4 +49,3 @@ body{
     font-size: 1rem;
     font-family: 'Montserrat Alternates', sans-serif;
 }
-
